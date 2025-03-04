@@ -50,4 +50,4 @@ This analysis enabled **personalized marketing efforts** and improved customer e
 ---
 
 ### 📩 Let's Connect!  
-💼 [LinkedIn](#) | 📧 [Email Me](#) | 📊 [GitHub Projects](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/stevenantonio/) | 📧 [Email Me](mailto:steven.antonio@me.com) | 📊 [Projects ](https://github.com/StevenADiMascio/Data_projects_TripleTen) 
