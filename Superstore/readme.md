@@ -23,3 +23,8 @@ As a consultant for **SuperStore**, I conducted an in-depth **profitability anal
 
 ## 🔧 Skills & Tools  
 **Data Visualization · Visual Storytelling · Predictive Analytics · Statistical Data Analysis**  
+
+---
+
+### 📩 Let's Connect!  
+💼 [LinkedIn](https://www.linkedin.com/in/stevenantonio/) | 📧 [Email Me](mailto"steven.antonio@me.com) | 📊 [Projects ](https://github.com/StevenADiMascio/Data_projects_TripleTen) 
