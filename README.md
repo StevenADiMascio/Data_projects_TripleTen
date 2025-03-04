@@ -1,2 +1,2 @@
-# Datap Projects | TripleTen
+# Data Projects | TripleTen
 Projects I worked on while attending the Business Intelligence Analyst TripleTen Bootcamp.
