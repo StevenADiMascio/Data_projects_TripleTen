@@ -27,4 +27,4 @@ As a consultant for **SuperStore**, I conducted an in-depth **profitability anal
 ---
 
 ### 📩 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/stevenantonio/) | 📧 [Email Me](mailto"steven.antonio@me.com) | 📊 [Projects ](https://github.com/StevenADiMascio/Data_projects_TripleTen) 
+💼 [LinkedIn](https://www.linkedin.com/in/stevenantonio/) | 📧 [Email Me](mailto:steven.antonio@me.com) | 📊 [Projects ](https://github.com/StevenADiMascio/Data_projects_TripleTen) 
